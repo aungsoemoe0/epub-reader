@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6d790e99-e9d9-4143-9be3-33d6165095f6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c703f1b-f10c-407a-8315-9a06e626862c</dc:identifier>
+        <dc:title>ဘုရားသခင် ဖြစ်ချင်ခဲ့သော ဘတ်စ်ကား ဒရိုင်ဘာ တယောက်အကြောင်းဘုရားသခင် ဖြစ်ချင်ခဲ့သော ဘတ်စ်ကား ဒရိုင်ဘာ တယောက်အကြောင်း</dc:title>
+        <dc:creator opf:file-as="သုဒ္ဓ, " opf:role="aut">သုဒ္ဓ</dc:creator>
+        <dc:creator opf:file-as="သုဒ္ဓ, " opf:role="aut">လင်းထယ်</dc:creator>
+        <dc:creator opf:file-as="သုဒ္ဓ, " opf:role="aut">နေသန်</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.15.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:description>ဘုရားသခင် ဖြစ်ချင်ခဲ့သော ဘတ်စ်ကား ဒရိုင်ဘာ တယောက်အကြောင်း
+သုဒ္ဓ၊ လင်းထယ်၊ နေသန် မြန်မာဘာသာသို့ ပြန်ဆိုသည်။</dc:description>
+        <dc:publisher>Https://whisper1of.blogspot.com</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
